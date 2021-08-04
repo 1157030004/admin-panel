@@ -49,6 +49,21 @@ export const userData = [
 	},
 ];
 
+export const productData = [
+	{
+		name: "Jan",
+		Sales: 4000,
+	},
+	{
+		name: "Feb",
+		Sales: 3000,
+	},
+	{
+		name: "Mar",
+		Sales: 5000,
+	},
+];
+
 export const userRows = [
 	{
 		id: 1,
@@ -139,5 +154,88 @@ export const userRows = [
 		email: "kilua@gmail.com",
 		status: "active",
 		transaction: "$120.00",
+	},
+];
+
+export const productRows = [
+	{
+		id: 1,
+		name: "Huawei P30",
+		img: "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//84/MTA-3238013/huawei_huawei-p30-pro-smartphone--256-gb--8-gb-_full26.jpg",
+		stock: 123,
+		status: "active",
+		price: "$120.00",
+	},
+	{
+		id: 2,
+		name: "Huawei P30",
+		img: "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//84/MTA-3238013/huawei_huawei-p30-pro-smartphone--256-gb--8-gb-_full26.jpg",
+		stock: 123,
+		status: "active",
+		price: "$120.00",
+	},
+	{
+		id: 3,
+		name: "Huawei P30",
+		img: "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//84/MTA-3238013/huawei_huawei-p30-pro-smartphone--256-gb--8-gb-_full26.jpg",
+		stock: 123,
+		status: "active",
+		price: "$120.00",
+	},
+	{
+		id: 4,
+		name: "Huawei P30",
+		img: "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//84/MTA-3238013/huawei_huawei-p30-pro-smartphone--256-gb--8-gb-_full26.jpg",
+		stock: 123,
+		status: "active",
+		price: "$120.00",
+	},
+	{
+		id: 5,
+		name: "Huawei P30",
+		img: "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//84/MTA-3238013/huawei_huawei-p30-pro-smartphone--256-gb--8-gb-_full26.jpg",
+		stock: 123,
+		status: "active",
+		price: "$120.00",
+	},
+	{
+		id: 6,
+		name: "Huawei P30",
+		img: "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//84/MTA-3238013/huawei_huawei-p30-pro-smartphone--256-gb--8-gb-_full26.jpg",
+		stock: 123,
+		status: "active",
+		price: "$120.00",
+	},
+	{
+		id: 7,
+		name: "Huawei P30",
+		img: "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//84/MTA-3238013/huawei_huawei-p30-pro-smartphone--256-gb--8-gb-_full26.jpg",
+		stock: 123,
+		status: "active",
+		price: "$120.00",
+	},
+	{
+		id: 8,
+		name: "Huawei P30",
+		img: "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//84/MTA-3238013/huawei_huawei-p30-pro-smartphone--256-gb--8-gb-_full26.jpg",
+		stock: 123,
+		status: "active",
+		price: "$120.00",
+	},
+	{
+		id: 9,
+		name: "Huawei P30",
+		img: "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//84/MTA-3238013/huawei_huawei-p30-pro-smartphone--256-gb--8-gb-_full26.jpg",
+		stock: 123,
+		status: "active",
+		price: "$120.00",
+	},
+	{
+		id: 10,
+		name: "Huawei P30",
+		img: "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//84/MTA-3238013/huawei_huawei-p30-pro-smartphone--256-gb--8-gb-_full26.jpg",
+		stock: 123,
+		status: "active",
+		price: "$120.00",
 	},
 ];
