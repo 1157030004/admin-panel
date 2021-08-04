@@ -41,7 +41,7 @@ const ProductList = () => {
         },
         {
           field: 'price',
-          headerName: 'price',
+          headerName: 'Price',
           width: 160,
           editable: true,
         },
