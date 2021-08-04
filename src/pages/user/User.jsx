@@ -17,7 +17,7 @@ const User = () => {
                         <img className="userShowImg" src="https://pbs.twimg.com/media/EPdj-O2XkAEdukI.jpg" alt=""  />
                         <div className="userShowTopTitle">
                             <span className="userShowUsername">Lord Kazuma</span>
-                            <span className="userShowUserTitle">Unlucky Advanturer</span>
+                            <span className="userShowUserTitle">Unlucky Adventurer</span>
                         </div>
                     </div>
                     <div className="userShowBottom">
