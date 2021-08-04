@@ -48,3 +48,96 @@ export const userData = [
 		"Active User": 1490,
 	},
 ];
+
+export const userRows = [
+	{
+		id: 1,
+		username: "Kilua Zoldyck",
+		avatar:
+			"https://c4.wallpaperflare.com/wallpaper/616/450/559/anime-hunter-x-hunter-killua-zoldyck-hd-wallpaper-preview.jpg",
+		email: "kilua@gmail.com",
+		status: "active",
+		transaction: "$120.00",
+	},
+	{
+		id: 2,
+		username: "Kilua Zoldyck",
+		avatar:
+			"https://c4.wallpaperflare.com/wallpaper/616/450/559/anime-hunter-x-hunter-killua-zoldyck-hd-wallpaper-preview.jpg",
+		email: "kilua@gmail.com",
+		status: "active",
+		transaction: "$120.00",
+	},
+	{
+		id: 3,
+		username: "Kilua Zoldyck",
+		avatar:
+			"https://c4.wallpaperflare.com/wallpaper/616/450/559/anime-hunter-x-hunter-killua-zoldyck-hd-wallpaper-preview.jpg",
+		email: "kilua@gmail.com",
+		status: "active",
+		transaction: "$120.00",
+	},
+	{
+		id: 4,
+		username: "Kilua Zoldyck",
+		avatar:
+			"https://c4.wallpaperflare.com/wallpaper/616/450/559/anime-hunter-x-hunter-killua-zoldyck-hd-wallpaper-preview.jpg",
+		email: "kilua@gmail.com",
+		status: "active",
+		transaction: "$120.00",
+	},
+	{
+		id: 5,
+		username: "Kilua Zoldyck",
+		avatar:
+			"https://c4.wallpaperflare.com/wallpaper/616/450/559/anime-hunter-x-hunter-killua-zoldyck-hd-wallpaper-preview.jpg",
+		email: "kilua@gmail.com",
+		status: "active",
+		transaction: "$120.00",
+	},
+	{
+		id: 6,
+		username: "Kilua Zoldyck",
+		avatar:
+			"https://c4.wallpaperflare.com/wallpaper/616/450/559/anime-hunter-x-hunter-killua-zoldyck-hd-wallpaper-preview.jpg",
+		email: "kilua@gmail.com",
+		status: "active",
+		transaction: "$120.00",
+	},
+	{
+		id: 7,
+		username: "Kilua Zoldyck",
+		avatar:
+			"https://c4.wallpaperflare.com/wallpaper/616/450/559/anime-hunter-x-hunter-killua-zoldyck-hd-wallpaper-preview.jpg",
+		email: "kilua@gmail.com",
+		status: "active",
+		transaction: "$120.00",
+	},
+	{
+		id: 8,
+		username: "Kilua Zoldyck",
+		avatar:
+			"https://c4.wallpaperflare.com/wallpaper/616/450/559/anime-hunter-x-hunter-killua-zoldyck-hd-wallpaper-preview.jpg",
+		email: "kilua@gmail.com",
+		status: "active",
+		transaction: "$120.00",
+	},
+	{
+		id: 9,
+		username: "Kilua Zoldyck",
+		avatar:
+			"https://c4.wallpaperflare.com/wallpaper/616/450/559/anime-hunter-x-hunter-killua-zoldyck-hd-wallpaper-preview.jpg",
+		email: "kilua@gmail.com",
+		status: "active",
+		transaction: "$120.00",
+	},
+	{
+		id: 10,
+		username: "Kilua Zoldyck",
+		avatar:
+			"https://c4.wallpaperflare.com/wallpaper/616/450/559/anime-hunter-x-hunter-killua-zoldyck-hd-wallpaper-preview.jpg",
+		email: "kilua@gmail.com",
+		status: "active",
+		transaction: "$120.00",
+	},
+];
